@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Emmy, third year Computer Science major with an interest in embedded system and software engineering! 
 
 <!--
 **eachen1010/eachen1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
